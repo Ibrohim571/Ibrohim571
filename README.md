@@ -15,14 +15,28 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 ----
-----
-
-#### View my stats on Github 
-   
-![Ary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrohim571&count_private=true)
 
 ### Contact with me
 
  ![emailto:ijorayev62@gmail.com](https://img.shields.io/badge/ijorayev62@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
  <a href="https://linkedin.com/in/ibrohim-jo-rayev-73aa47288"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/idasturjs)
+
+
+----
+#### View my stats on Github 
+   
+![Ary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrohim571&count_private=true)
+
+----
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<details>
+  <summary>Quelques statistiques ...</summary><br/>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%2011%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+
