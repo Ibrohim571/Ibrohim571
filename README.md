@@ -24,5 +24,5 @@
 ### Contact with me
 
  ![emailto:ijorayev62@gmail.com](https://img.shields.io/badge/ijorayev62@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
- <a href="https://linkedin.com/in/shakhbozpulatov"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="www.linkedin.com/in/ibrohim-jo-rayev-73aa47288"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/idasturjs)
