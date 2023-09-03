@@ -31,12 +31,3 @@
 ----
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%2011%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
-
