@@ -26,7 +26,7 @@
 
 
 ----
-#### View my stats on Github 
+#### View my stats on Github for commit
    
 ![Ary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrohim571&count_private=true)
 
